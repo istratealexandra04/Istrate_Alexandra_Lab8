@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Istrate_Alexandra_Lab8", "Istrate_Alexandra_Lab8.csproj", "{D74C9576-A6DE-451A-BD94-3BB3CD8C108F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D74C9576-A6DE-451A-BD94-3BB3CD8C108F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74C9576-A6DE-451A-BD94-3BB3CD8C108F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74C9576-A6DE-451A-BD94-3BB3CD8C108F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74C9576-A6DE-451A-BD94-3BB3CD8C108F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {868626B3-3E86-40A8-93AE-81F72544B4E8}
+	EndGlobalSection
+EndGlobal
