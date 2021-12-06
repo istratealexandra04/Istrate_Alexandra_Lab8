@@ -17,5 +17,7 @@ namespace Istrate_Alexandra_Lab8.Data
         public DbSet<Istrate_Alexandra_Lab8.Models.Book> Book { get; set; }
 
         public DbSet<Istrate_Alexandra_Lab8.Models.Publisher> Publisher { get; set; }
+
+        public DbSet<Istrate_Alexandra_Lab8.Models.Category> Category { get; set; }
     }
 }
